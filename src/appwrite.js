@@ -54,7 +54,7 @@ export const getTrendingMovies = async () => {
             Query.limit(5),
             Query.orderDesc('count')
         ]);
-
+        console.log('Trending movies:', result.documents);
         return result.documents;
     } catch (error) {
         console.error('Error fetching trending movies:', error);
