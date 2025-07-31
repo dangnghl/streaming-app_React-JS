@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Streaming App Lesson from JSM
 https://youtu.be/dCLhUialKPQ
 ## Lesson learned
@@ -10,8 +10,6 @@ https://youtu.be/dCLhUialKPQ
 - conditional styling
 - Database (appwrite)
 
-
-=======
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
